@@ -1,0 +1,79 @@
+*{
+	margin:0px;
+	padding:0px;
+
+}
+.backgroundimgudaipur
+{
+	background-image: url('UDAIPUR1.jpg');
+	background-size: 100% 135%;
+	width: 100%;
+	height: 100vh;
+}
+.backgroundimgjaipur
+{
+	background-image: url('ja2.jpg');
+	background-size: 100% 135%;
+	width: 100%;
+	height: 100vh;
+}
+.backgroundimgjodhpur
+{
+	background-image: url('jo3.jpg');
+	background-size: 100% 135%;
+	width: 100%;
+	height: 100vh;
+}
+.backgroundimgjodhpur h1
+{
+	margin-left: 500px;
+}
+.backgroundimgmumbai
+{
+	background-image: url('m4.webp');
+	background-size: 100% 135%;
+	width: 100%;
+	height: 100vh;
+}
+.backgroundimggoa
+{
+	background-image: url('g5.jpg');
+	background-size: 100% 135%;
+	width: 100%;
+	height: 100vh;
+}
+.backgroundimgvadodara
+{
+	background-image: url('v6.webp');
+	background-size: 100% 135%;
+	width: 100%;
+	height: 100vh;
+}
+.card{
+
+	border-color: black;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	left: 20px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	transition: 0.3s;
+	border-radius: 20px;
+
+	}
+.cards {
+ 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+ 	transition: 0.3s;
+ 	left: 20px;
+	margin-top: 100px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "arial";
+
+}
+
+/* On mouse-over, add a deeper shadow */
+.cards:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: translate(0px,-10px);
+}
